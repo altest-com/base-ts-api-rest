@@ -1,8 +1,8 @@
 # base-ts-api-rest
 Base para la creación y configuración de REST APIs con typescript y express
-[![Downloads](http://pepy.tech/badge/shallow-backup)](http://pepy.tech/count/shallow-backup)
-[![Build Status](https://travis-ci.com/alichtman/shallow-backup.svg?branch=master)](https://travis-ci.com/alichtman/shallow-backup)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1719da4d7df5455d8dbb4340c428f851)](https://www.codacy.com/app/alichtman/shallow-backup?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alichtman/shallow-backup&amp;utm_campaign=Badge_Grade)
+[![Downloads]](http://pepy.tech/count/shallow-backup)
+[![Build Status]](https://travis-ci.com/alichtman/shallow-backup)
+[![Codacy Badge]](https://www.codacy.com/app/alichtman/shallow-backup?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alichtman/shallow-backup&amp;utm_campaign=Badge_Grade)
 <!-- [![Coverage Status](https://coveralls.io/repos/github/alichtman/shallow-backup/badge.svg?branch=master)](https://coveralls.io/github/alichtman/shallow-backup?branch=master) -->
 
 Contents
@@ -35,3 +35,5 @@ then, to run compiled code `$ node ./dist/index.js` .
  TO-DO
  
  ### Otput Structure
+ ---
+ TO-DO
