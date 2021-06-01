@@ -23,16 +23,19 @@ Contents
 ### Usage
 ---
 
-To start the server in develpoment stage, simply run `$ npm run dev`.
-To build the project run `$ npm run build` .
-then, to run compiled code `$ node ./dist/index.js` .
+To start the server in develpoment stage, simply run `$ npm run dev`
+
+To build the project run `$ npm run build`
+
+
+then, to run compiled code `$ node ./dist/index.js`
  
- Test and coverage: `$ npm test`
+Test and coverage: `$ npm test`
  
- ### Configuration
- ---
- TO-DO
+### Configuration
+---
+TO-DO
  
- ### Otput Structure
- ---
- TO-DO
+### Otput Structure
+---
+TO-DO
