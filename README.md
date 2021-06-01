@@ -18,7 +18,7 @@ Contents
 **Do not install this as `root`.**
 
 1. Install with [`npm`](https://www.npmjs.com/get-npm)
-    + `$ npm install
+    + `$ npm install`
 
 ### Usage
 ---
