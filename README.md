@@ -1,8 +1,6 @@
 # base-ts-api-rest
-[![Downloads](http://pepy.tech/badge/shallow-backup)]
-[![Build Status](https://travis-ci.com/alichtman/shallow-backup.svg?branch=master)]
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1719da4d7df5455d8dbb4340c428f851)]
-<!-- [![Coverage Status](https://coveralls.io/repos/github/alichtman/shallow-backup/badge.svg?branch=master)](https://coveralls.io/github/alichtman/shallow-backup?branch=master) -->
+![reactjs](https://img.shields.io/badge/python-v3.6+-blue.svg)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
 Contents
 ========
