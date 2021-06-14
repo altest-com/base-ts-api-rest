@@ -1,5 +1,5 @@
 # base-ts-api-rest
-![reactjs](https://img.shields.io/badge/reacjs-v17.0.2-informational)
+![reactjs](https://img.shields.io/badge/reactjs-v17.0.2-informational)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
 Contents
